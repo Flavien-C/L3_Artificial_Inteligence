@@ -1,2 +1,6 @@
 # L3_IA
-Student's project about Artificial Intelligence.
+Academic project about Artificial Intelligence.
++ Modelization
++ Constraint programming (CP)
+
++ To be continued...
