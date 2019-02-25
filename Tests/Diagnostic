@@ -1,0 +1,28 @@
+TEST Class Diagnoser
+
+java diagnosis.Diagnoser 
+---------------------------------
+Le capot est Rouge
+---------------------------------
+Peut-on ajouter une porte droite de couleur noire ?
+C'est okay ! On l'ajoute
+---------------------------------
+Peut-on ajouter un coffre de couleur rouge ?
+C'est okay ! On l'ajoute
+---------------------------------
+Peut-on ajouter une porte gauche de couleur dark_salmon ?
+C'est okay ! On l'ajoute
+---------------------------------
+Ajout Sono
+---------------------------------
+Peut-on ajouter un toit ouvrant ?
+Non. Que dois-je supprimer ?
+{sono=true}
+---------------------------------
+Peut-on peindre le toit en blanc ?
+Non. Que dois-je supprimer ?
+{coffreColor=rouge, capotColor=rouge}
+---------------------------------
+Peut-on peindre le toit en rouge ?
+Non. Que dois-je supprimer ?
+{droiteColor=noir, gaucheColor=dark_salmon}
